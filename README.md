@@ -7,7 +7,7 @@
 To install and run this application, you will need:
 > A **_Web browser_**, like:
 * [**_Google Chrome_**](https://www.google.com/chrome/), [**_Mozilla Firefox_**](https://www.mozilla.org/), [**_Internet Explorer_**](https://www.microsoft.com/download/internet-explorer.aspx), [**_Opera_**](https://www.opera.com/) or [**_Safari_**](https://www.apple.com/safari/).
-> The **_Git_** feature or a **_third-party Git based GUI_**, like:
+> The **_Git_** feature or a **_third-party Git Client based GUI_**, like:
 * [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
 
 ### Installation
