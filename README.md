@@ -1,5 +1,5 @@
 # 2D Fractals - Benoit Mandelbrot & Gaston Julia
-> A **_3rd year's project_**, of the **_BSc. degree_** made in **_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**, in the subject of **_Computer Graphics and Interfaces_**. This project was built using **_HTML_**, **_CSS_**, **_JavaScript_** and **_WebGL_**. The application allows to see **_Fractals' structures_** with multiple scales and, using some of the both **_Benoit Mandelbrot_** and **_Gaston Julia's_** sets!
+> A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL_**](https://get.webgl.org/). The application allows to see [**_Fractals' structures_**](https://en.wikipedia.org/wiki/Fractal) with multiple scales and, using some of the both [**_Benoit Mandelbrot_**](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) and [**_Gaston Julia's_**](https://en.wikipedia.org/wiki/Gaston_Julia) sets!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/webgl/2d-fractals-mandelbrot-julia/2d-fractals-mandelbrot-julia.html)!
 
@@ -15,7 +15,7 @@ To install and run this application, you will only need:
 ### Installation
 To install this application, you will only need to download or clone this repository and run the application locally.
 
-> You can do it downloading the [**_.zip_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) file in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) file in download section of this repository.
 
 > Or instead, by cloning this repository by a **_Git Client GUI_**, using **_HTTPS_** or **_SSH_**, by one of the following link:
 * **_HTTPS_**:
@@ -37,7 +37,26 @@ git clone https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 
+## After the instalation
+Instructions
+
+> a) Use _'Q'_ and _'A'_ keys dive/emerge. Use _click/drag/release_ in the canvas to move center point
+
+> b) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
+
+> c) Choose also the current Factor to the Scale of the current Fractal in use
+
 ## Contributors
 > Daniel Filipe Pimenta
 
-> Rúben André Barreiro
+> [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
+
+## Contacts
+### Daniel Filipe Pimenta
+* [d.pimenta@campus.fct.unl.pt](mailto:d.pimenta@campus.fct.unl.pt)
+
+### Rúben André Barreiro
+* [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
+* [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
+* [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
+* [up201808917@g.uporto.pt](mailto:up201808917@g.uporto.pt)
