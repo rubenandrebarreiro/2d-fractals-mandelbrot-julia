@@ -15,7 +15,7 @@ To install and run this application, you will only need:
 ### Installation
 To install this application, you will only need to download or clone this repository and run the application locally.
 
-> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) file in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) in download section of this repository.
 
 > Or instead, by cloning this repository by a **_Git Client GUI_**, using **_HTTPS_** or **_SSH_**, by one of the following link:
 * **_HTTPS_**:
