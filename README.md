@@ -40,11 +40,11 @@ git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ## After the instalation
 Instructions (also available in the _canvas_ of the application)
 
-> a) Use _'Q'_ and _'A'_ keys dive/emerge. Use _click/drag/release_ in the _canvas_ to move center point
+> a) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
 
 > b) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
 
-> c) Choose also the current _Factor_ to the _Scale_ of the current _Fractal_ in use
+> c) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
 
 ## Contributors
 > Daniel Filipe Pimenta
