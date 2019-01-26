@@ -11,11 +11,11 @@ To install and run this application, you will need:
 * [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
 
 ### Installation
-To install this application, you will only need to download this repository and run locally.
+To install this application, you will only need to download or clone this repository and run the application locally.
 
-You can do it downloading the [**_.zip_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) file in download section of this repository.
+> You can do it downloading the [**_.zip_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) file in download section of this repository.
 
-Or instead, by cloning this repository by a **_Git Client GUI_**, using **_HTTPS_** or **_SSH_** by one of the following link:
+> Or instead, by cloning this repository by a **_Git Client GUI_**, using **_HTTPS_** or **_SSH_** by one of the following link:
 * **_HTTPS_**:
 ```
 https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
@@ -25,7 +25,7 @@ https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 
-Or even, by running one of the following commands in a **_Git Bash Console_**:
+> Or even, by running one of the following commands in a **_Git Bash Console_**:
 * **_HTTPS_**:
 ```
 git clone https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
