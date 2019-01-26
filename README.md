@@ -9,30 +9,30 @@
 To install and run this application, you will only need:
 > A **_Web browser_**, like:
 * [**_Google Chrome_**](https://www.google.com/chrome/), [**_Mozilla Firefox_**](https://www.mozilla.org/), [**_Internet Explorer_**](https://www.microsoft.com/download/internet-explorer.aspx), [**_Opera_**](https://www.opera.com/) or [**_Safari_**](https://www.apple.com/safari/).
-> The **_Git_** feature and/or a **_third-party Git Client based GUI_**, like:
+> The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
 * [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
 
 ### Installation
-To install this application, you will only need to download or clone this repository and run the application locally.
+To install this application, you will only need to _download_ or _clone_ this repository and run the application locally.
 
 > You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) in download section of this repository.
 
-> Or instead, by cloning this repository by a **_Git Client GUI_**, using **_HTTPS_** or **_SSH_**, by one of the following link:
-* **_HTTPS_**:
+> Or instead, by cloning this repository by a [**_Git Client GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
 https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
-* **_SSH_**:
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
 git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 
 > Or even, by running one of the following commands in a **_Git Bash Console_**:
-* **_HTTPS_**:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
 git clone https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
-* **_SSH_**:
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
 git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
@@ -40,7 +40,7 @@ git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ## After the instalation
 Instructions (also available in the _canvas_ of the application)
 
-> a) Use _'Q'_ and _'A'_ keys dive/emerge. Use _click/drag/release_ in the canvas to move center point
+> a) Use _'Q'_ and _'A'_ keys dive/emerge. Use _click/drag/release_ in the _canvas_ to move center point
 
 > b) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
 
