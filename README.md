@@ -17,7 +17,7 @@ To install this application, you will only need to _download_ or _clone_ this re
 
 > You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) in download section of this repository.
 
-> Or instead, by cloning this repository by a [**_Git Client GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
+> Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
 https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
