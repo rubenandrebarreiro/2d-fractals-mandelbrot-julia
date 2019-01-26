@@ -13,7 +13,7 @@ To install and run this application, you will only need:
 * [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
 
 ### Installation
-To install this application, you will only need to _download_ or _clone_ this repository and run the application locally.
+To install this application, you will only need to _download_ or _clone_ this repository and run the application locally:
 
 > You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/2D-fractals-mandelbrot-julia/archive/master.zip) in download section of this repository.
 
@@ -38,7 +38,7 @@ git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 
 ## After the instalation
-Instructions (also available in the _canvas_ of the application)
+Instructions (also available in the _canvas_ of the application):
 
 > a) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
 
