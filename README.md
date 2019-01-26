@@ -59,6 +59,11 @@ Instructions (also available in the _canvas_ of the application)
 #### GitHub's Portfolio/Personal Blog
 * [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
 
+#### Repositories' Services
+* [https://github.com/rubenandrebarreiro/](https://github.com/rubenandrebarreiro/)
+* [https://gitlab.com/rubenandrebarreiro/](https://gitlab.com/rubenandrebarreiro/)
+* [https://bitbucket.org/rubenandrebarreiro/](https://bitbucket.org/rubenandrebarreiro/)
+
 #### E-mails
 * [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
