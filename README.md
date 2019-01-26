@@ -1,7 +1,7 @@
 # 2D Fractals - Benoit Mandelbrot & Gaston Julia
 > A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL_**](https://get.webgl.org/). The application allows to see [**_Fractals' structures_**](https://en.wikipedia.org/wiki/Fractal) with multiple scales and, using some of the both [**_Benoit Mandelbrot_**](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) and [**_Gaston Julia's_**](https://en.wikipedia.org/wiki/Gaston_Julia) sets!
 
-[https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot.jpg)
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/webgl/2d-fractals-mandelbrot-julia/2d-fractals-mandelbrot-julia.html)!
 
