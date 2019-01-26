@@ -59,6 +59,12 @@ Instructions (also available in the _canvas_ of the application):
 2d-fractals-mandelbrot-julia.css
 ```
 
+## Built with
+* [**_HTML_**](https://www.w3schools.com/html/)
+* [**_CSS_**](https://www.w3schools.com/css/)
+* [**_JavaScript_**](https://www.w3schools.com/js/)
+* [**_WebGL_**](https://get.webgl.org/)
+
 ## Contributors
 > Daniel Filipe Pimenta
 
