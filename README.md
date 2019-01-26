@@ -1,2 +1,2 @@
-# 2D Fractals Mandelbrot Julia
+# 2D Fractals - Benoit Mandelbrot & Gaston Julia
 A **_3rd year's project_**, of the **_BSc. degree made in FCT NOVA_**, in the subject of **_Computer Graphics and Interfaces_**. This project was built using **_HTML_**, **_CSS_**, **_JavaScript_** and **_WebGL_**. The application allows to see **_Fractals'_** structures with multiple scales and, using some of the both **_Benoit Mandelbrot_** and **_Gaston Julia's_** sets!
