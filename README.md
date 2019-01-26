@@ -52,7 +52,7 @@ Instructions (also available in the _canvas_ of the application):
 > c) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
 
 #### Notes (IMPORTANT)
-> 1) It's **_mandatory_** to have the folder called **_common_** in the local repository, because it's where are the necessary **_WebGL_** utilities, _geometric/solid_ figures and other libraries
+> 1) It's **_mandatory_** to have the folder called **_common_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_geometric/solid figures_** and **_other libraries_**
 
 > 2) It's also **_mandatory_** to have the respective application's **_CSS_** file in the _root_ folder of this repository
 
