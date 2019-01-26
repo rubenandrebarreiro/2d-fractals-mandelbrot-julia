@@ -44,7 +44,7 @@ Instructions
 
 > b) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
 
-> c) Choose also the current Factor to the Scale of the current Fractal in use
+> c) Choose also the current _Factor_ to the _Scale_ of the current _Fractal_ in use
 
 ## Contributors
 > Daniel Filipe Pimenta
