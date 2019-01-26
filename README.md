@@ -1,5 +1,5 @@
 # 2D Fractals - Benoit Mandelbrot & Gaston Julia
-> A **_3rd year's project_**, of the **_BSc. degree made in FCT NOVA_**, in the subject of **_Computer Graphics and Interfaces_**. This project was built using **_HTML_**, **_CSS_**, **_JavaScript_** and **_WebGL_**. The application allows to see **_Fractals' structures_** with multiple scales and, using some of the both **_Benoit Mandelbrot_** and **_Gaston Julia's_** sets!
+> A **_3rd year's project_**, of the **_BSc. degree_** made in **_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**, in the subject of **_Computer Graphics and Interfaces_**. This project was built using **_HTML_**, **_CSS_**, **_JavaScript_** and **_WebGL_**. The application allows to see **_Fractals' structures_** with multiple scales and, using some of the both **_Benoit Mandelbrot_** and **_Gaston Julia's_** sets!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/webgl/2d-fractals-mandelbrot-julia/2d-fractals-mandelbrot-julia.html)!
 
@@ -36,3 +36,8 @@ git clone https://github.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
+
+## Contributors
+> Daniel Filipe Pimenta
+
+> Rúben André Barreiro
