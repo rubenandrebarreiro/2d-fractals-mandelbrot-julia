@@ -38,6 +38,11 @@ git clone git@github.com:rubenandrebarreiro/2d-fractals-mandelbrot-julia.git
 ```
 
 ## After the instalation
+You can run the application, by open the file:
+```
+2d-fractals-mandelbrot-julia.html
+```
+
 Instructions (also available in the _canvas_ of the application):
 
 > a) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
