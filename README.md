@@ -60,11 +60,13 @@ You can run the application, by open the following file presented in the _root_ 
 
 Instructions (also available in the _canvas_ of the application):
 
-1) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
+1) Use **_'Q'_** and **_'A'_** keys dive/emerge
 
-2) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
+2) Use **_click/drag/release_** in the **_canvas_** to move center point
 
-3) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
+3) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
+
+4) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
 
 #### Notes (IMPORTANT)
 1) It's **_mandatory_** to have the folder called **_common_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_geometric/solid figures_** and **_other libraries_**
