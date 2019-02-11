@@ -1,6 +1,6 @@
 # 2D Fractals - Benoit Mandelbrot & Gaston Julia Sets
 
-> A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL_**](https://get.webgl.org/). The application allows to see [**_Fractals' structures_**](https://en.wikipedia.org/wiki/Fractal) with _multiple scales_ and, using some of the both [**_Benoit Mandelbrot_**](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) and [**_Gaston Julia_**](https://en.wikipedia.org/wiki/Gaston_Julia)'s sets, in the _canvas_ of the _Web browser_!
+> A [**_3rd year's project_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_BSc. degree of Computer Sciences and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Computer Graphics and Interfaces_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8150). This project was built using [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/) and [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/). The application allows to see [**_Fractals' structures_**](https://en.wikipedia.org/wiki/Fractal) with _multiple scales_ and, using some of the both [**_Benoit Mandelbrot_**](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) and [**_Gaston Julia_**](https://en.wikipedia.org/wiki/Gaston_Julia)'s sets, in the _canvas_ of the _Web browser_!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/webgl/2d-fractals-mandelbrot-julia/2d-fractals-mandelbrot-julia.html)!
 
@@ -77,10 +77,10 @@ Instructions (also available in the _canvas_ of the application):
 ```
 
 ## Built with
-* [**_HTML_**](https://www.w3schools.com/html/)
-* [**_CSS_**](https://www.w3schools.com/css/)
+* [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/)
+* [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/)
 * [**_JavaScript_**](https://www.w3schools.com/js/)
-* [**_WebGL_**](https://get.webgl.org/)
+* [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/)
 * [**_Atom_**](https://atom.io/)
 * [**_Brackets_**](http://brackets.io/)
 
@@ -91,9 +91,11 @@ Instructions (also available in the _canvas_ of the application):
 
 ## Contacts
 ### Daniel Filipe Pimenta
+#### E-mails
 * [d.pimenta@campus.fct.unl.pt](mailto:d.pimenta@campus.fct.unl.pt)
 
 ### Rúben André Barreiro
+#### E-mails
 * [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
 * [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
