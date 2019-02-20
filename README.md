@@ -47,12 +47,12 @@
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/screenshot-1.jpg)
 ######  2D Fractals (Benoit Mandelbrot & Gaston Julia Sets) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/screenshot-2.jpg)
 ######  2D Fractals (Benoit Mandelbrot & Gaston Julia Sets) - Screenshot #2
 
 ***
