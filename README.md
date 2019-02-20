@@ -1,6 +1,6 @@
 # 2D Fractals - Benoit Mandelbrot & Gaston Julia Sets
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/banner-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/2d-fractals-mandelbrot-julia/master/imgs/JPGs/banner-1.jpg) 
 ######  2D Fractals (Benoit Mandelbrot & Gaston Julia Sets) - Banner #1
 
 ***
